@@ -1,6 +1,6 @@
 {
   "name": "adal-vanilla",
-  "version": "1.0.14",
+  "version": "1.0.16",
   "homepage": "https://github.com/jmgoncalves/azure-activedirectory-library-for-js",
   "authors": [
     "MSOpentech",
